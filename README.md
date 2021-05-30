@@ -1,4 +1,4 @@
 # Fake-News-Detection-Using-Vectorizers-and-Tfidf-techniques
 In this project, models are build based on the count vectorizer or a tfidf matrix ( i.e.  word tallies relative to how often they are used in other articles in our dataset ) can help . Since this problem is a kind of text classification, Implementing different classifiers will be best as this is standard for text-based processing. The actual goal is in developing models which is the text transformation (count vectorizer vs tfidf vectorizer) and choosing which type of text to use (subjects vs full text).
-This code needs Google W2Vec .GZ type file but it's size is 1.5GB. so, we can't attach this file but this file is avaliable on internet.
-we have given url link in that cell code of google W2Vec to download it to run remaining code. 
+This code needs Google W2Vec .GZ type file but it's size is 1.5GB. so, I can't attach this file but this file is avaliable on internet.
+I have given url link in that cell code of google W2Vec to download it to run remaining code. 
